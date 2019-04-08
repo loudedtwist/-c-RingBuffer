@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../ring-buffer/RingBuffer.hpp
+vector
+-
+
+/Users/vit/Programming/Cpp/ring-buffer/main.cpp
+iostream
+-
+RingBuffer.hpp
+-
+

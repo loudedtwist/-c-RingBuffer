@@ -1,0 +1,9 @@
+/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/CMakeFiles/run_project.dir
+/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer/CMakeFiles/rebuild_cache.dir
+/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer/CMakeFiles/edit_cache.dir
+/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer/CMakeFiles/ring_buffer.dir
+/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/CMakeFiles/rebuild_cache.dir
+/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/CMakeFiles/edit_cache.dir
+/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/CMakeFiles/ring-buffer-test.dir

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Catch2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\ring-buffer-test\;CMake Files\ring-buffer-test\Catch2\;CMake Files\ring-buffer\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Nightly">
+				<Option working_dir="/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 Nightly"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Continuous">
+				<Option working_dir="/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 Continuous"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Experimental">
+				<Option working_dir="/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 Experimental"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/vit/Programming/Cpp/ring-buffer/cmake-build-debug/ring-buffer-test/Catch2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/vit/Programming/Cpp/ring-buffer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/vit/Programming/Cpp/ring-buffer/ring-buffer-test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ring-buffer-test\"/>
+		</Unit>
+		<Unit filename="/Users/vit/Programming/Cpp/ring-buffer/ring-buffer-test/Catch2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ring-buffer-test\Catch2\"/>
+		</Unit>
+		<Unit filename="/Users/vit/Programming/Cpp/ring-buffer/ring-buffer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ring-buffer\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
