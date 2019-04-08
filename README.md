@@ -1,7 +1,7 @@
 # cpp-RingBuffer
 
 # Usage 
-
+```
 RingBuffer<int, 6> intRingBuffer;
         intRingBuffer.Push(12);
         intRingBuffer.Push(13);
@@ -19,3 +19,4 @@ RingBuffer<int, 6> intRingBuffer;
         REQUIRE(intRingBuffer.PopFront() == 15);
         REQUIRE(intRingBuffer.PopFront() == 14);
         REQUIRE(intRingBuffer.PopFront() == 13);
+```
